@@ -1,4 +1,4 @@
-## Hi I'm a Edilson, freelancer django and vue.js developer
+## Hi I'm Edilson, a freelancer django and vue.js developer
 
 <div align="center">
   <a href="https://github.com/edilsongudo">
